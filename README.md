@@ -6,9 +6,13 @@ This project is a part of the internship tasks assigned by Skill Craft Technolog
 The task focuses on the following steps:
 
 Data Loading: Load and preview the Titanic dataset.
+
 Handling Missing Data: Identify and impute missing values.
+
 Data Transformation: Convert categorical variables into numerical values.
-Exploratory Data Analysis (EDA):
+
+## Exploratory Data Analysis (EDA):
+
 Descriptive statistics.
 Analysis of survival rates by gender, ticket class, and port of embarkation.
 Visualization of data distributions and survival trends.
