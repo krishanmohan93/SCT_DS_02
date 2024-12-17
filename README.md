@@ -1,7 +1,7 @@
 # Titanic Dataset Analysis 🚢
 ## SCT_DS_02
 This project is part of the internship tasks assigned by **Skill Craft Technology**. It focuses on analyzing the Titanic dataset to understand survival patterns, handle missing data, and perform exploratory data analysis (EDA).  
-https://github.com/krishanmohan93/SCT_DS_02/tree/main
+
 ## Project Overview
 
 The analysis includes the following steps:
@@ -40,10 +40,18 @@ The analysis includes the following steps:
 
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- 
+
+
 
 ## How to Run the Project
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/krishanmohan93/SCT_DS_02.git
+
+   cd Titanic-Dataset-Analysis
+pip install -r requirements.txt
+
+   
 
