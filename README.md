@@ -42,7 +42,9 @@ The analysis includes the following steps:
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - 
 
+## Dataset
 
+The dataset is sourced from [Kaggle](https://www.kaggle.com).
 
 ## How to Run the Project
 
@@ -50,8 +52,9 @@ The analysis includes the following steps:
    ```bash
    git clone https://github.com/krishanmohan93/SCT_DS_02.git
 
+   
    cd Titanic-Dataset-Analysis
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
    
 
